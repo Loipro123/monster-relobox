@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Loipro123/monster-relobox/static/css/main.4a350580.chunk.css",
+    "main.js": "/Loipro123/monster-relobox/static/js/main.93137a73.chunk.js",
+    "main.js.map": "/Loipro123/monster-relobox/static/js/main.93137a73.chunk.js.map",
+    "runtime-main.js": "/Loipro123/monster-relobox/static/js/runtime-main.2dd60c03.js",
+    "runtime-main.js.map": "/Loipro123/monster-relobox/static/js/runtime-main.2dd60c03.js.map",
+    "static/js/2.a099693a.chunk.js": "/Loipro123/monster-relobox/static/js/2.a099693a.chunk.js",
+    "static/js/2.a099693a.chunk.js.map": "/Loipro123/monster-relobox/static/js/2.a099693a.chunk.js.map",
+    "index.html": "/Loipro123/monster-relobox/index.html",
+    "precache-manifest.1b8831bdafffd0ddc10ca0448c32ab2c.js": "/Loipro123/monster-relobox/precache-manifest.1b8831bdafffd0ddc10ca0448c32ab2c.js",
+    "service-worker.js": "/Loipro123/monster-relobox/service-worker.js",
+    "static/css/main.4a350580.chunk.css.map": "/Loipro123/monster-relobox/static/css/main.4a350580.chunk.css.map",
+    "static/js/2.a099693a.chunk.js.LICENSE.txt": "/Loipro123/monster-relobox/static/js/2.a099693a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd60c03.js",
+    "static/js/2.a099693a.chunk.js",
+    "static/css/main.4a350580.chunk.css",
+    "static/js/main.93137a73.chunk.js"
+  ]
+}
